@@ -1,0 +1,39 @@
+#content{
+	width: 900px;
+	margin: 0 auto;
+}
+
+#post{
+	width: 900px;
+	margin: 20px auto;
+}
+
+#comment{
+	width: 600px;
+	margin: 20px auto;
+}
+
+.navbar{
+	margin: 10px;
+}
+
+#comment_form{
+	width: 700px;
+	margin: 20px auto;
+}
+
+.input-group-sm{
+	width: 150px;
+}
+
+.form-group{
+	margin: 10px auto;
+}
+
+#button{
+	text-align: right;
+}
+
+#comment a{
+	margin-left: 15px; 
+}
